@@ -1,2 +1,2 @@
 [tool.vercel]
-entrypoint = "backend.app.main:app"
+entrypoint = "D:\gapfinder_ai\backend\app\main.py"
