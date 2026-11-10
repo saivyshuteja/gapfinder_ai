@@ -20,10 +20,9 @@ myenv/
 
 # Uploaded files
 storage/uploads/*
-backend/app/storage/uploads/*
+backend/storage/uploads/*
 # Database/cache
 *.db
-
 # Logs
 *.log
 
